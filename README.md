@@ -11,13 +11,13 @@
 
 ---
 
-# :books: Panduan Lengkap: Backend REST API dengan NestJS & Prisma
+# Panduan Lengkap: Backend REST API dengan NestJS & Prisma
 
 > Seri tutorial membangun backend REST API untuk aplikasi blog **"Median"** (klon sederhana Medium) menggunakan **NestJS**, **Prisma**, dan **PostgreSQL**.
 
 ---
 
-## :clipboard: Daftar Chapter
+## Daftar Chapter
 
 | # | Chapter | Topik Utama | Link |
 |---|---------|-------------|------|
@@ -28,7 +28,7 @@
 
 ---
 
-## :dart: Apa yang Akan Kamu Bangun?
+## Apa yang Akan Kamu Bangun?
 
 ```
 +----------------------------------------------+
@@ -51,7 +51,7 @@
 
 ---
 
-## :wrench: Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 | Teknologi | Deskripsi |
 |-----------|-----------|
@@ -68,7 +68,7 @@
 
 ---
 
-## :hammer_and_wrench: Prasyarat
+## Prasyarat
 
 Sebelum memulai, pastikan kamu sudah menginstal:
 
@@ -82,7 +82,7 @@ Sebelum memulai, pastikan kamu sudah menginstal:
 
 ---
 
-## :rocket: Cara Menjalankan Project
+## Cara Menjalankan Project
 
 ### **Quick Start (Paling Mudah!)**
 
@@ -208,7 +208,7 @@ docker-compose exec db psql -U myuser -d median-db  # masuk ke PostgreSQL
 
 ---
 
-## :test_tube: Testing API
+## Testing API
 
 **User test yang tersedia (setelah seed):**
 - Email: `john@example.com`
@@ -237,7 +237,7 @@ Buka http://localhost:3021/api untuk testing!
 
 ---
 
-## :rocket: Cara Menggunakan Tutorial Ini
+## Cara Menggunakan Tutorial Ini
 
 1. **Ikuti secara berurutan** - Setiap chapter membangun di atas chapter sebelumnya
 2. **Ketik kode sendiri** - Jangan copy-paste, ketik ulang agar lebih paham
@@ -246,7 +246,7 @@ Buka http://localhost:3021/api untuk testing!
 
 ---
 
-## :book: Ringkasan per Chapter
+## Ringkasan per Chapter
 
 ### Chapter 1: Membangun REST API
 > Setup proyek dari nol hingga REST API yang berfungsi penuh dengan dokumentasi Swagger.
@@ -330,7 +330,7 @@ Buka http://localhost:3021/api untuk testing!
 
 ---
 
-## :link: Referensi
+## Referensi
 
 - [NestJS Documentation](https://docs.nestjs.com/)
 - [Prisma Documentation](https://www.prisma.io/docs/)
