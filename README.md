@@ -179,7 +179,7 @@ Aplikasi akan berjalan di http://localhost:3021
 
 ---
 
-## :hammer_and_wrench: Commands Berguna
+## Commands Usefully
 
 ```bash
 # Database
